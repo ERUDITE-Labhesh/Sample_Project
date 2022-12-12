@@ -7,6 +7,10 @@ def feature_1():
     print(" This is Feature 1")
 
 
+def Home_NavBar():
+    print("This is the Basic Funcntionality of Home Nav Bar ") 
+    print("added new line of code")
+
 def Main(): 
     feature_1()
 
