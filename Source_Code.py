@@ -20,3 +20,4 @@ Feature_2()
 def feature_3(): 
     print("This is Feature 3") 
     
+feature_3()
