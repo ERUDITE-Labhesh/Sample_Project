@@ -10,3 +10,9 @@ def Main():
     feature_1()
 
 Main()
+Home_NavBar()
+
+def Feature_2():
+    print("This is Feature 2")
+
+Feature_2()
