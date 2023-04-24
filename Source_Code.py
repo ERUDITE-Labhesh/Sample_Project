@@ -25,3 +25,6 @@ feature_3()
 def Login_Page():
     print("This is the Login Page Function")
     print("This is the new line added")
+
+def Headers():
+    print("This is the Headers Function")
