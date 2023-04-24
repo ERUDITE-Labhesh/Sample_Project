@@ -21,3 +21,6 @@ def feature_3():
     print("This is Feature 3") 
     
 feature_3()
+
+def Login_Page():
+    print("This is the Login Page Function")
