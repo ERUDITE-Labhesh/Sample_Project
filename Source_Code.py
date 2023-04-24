@@ -28,3 +28,6 @@ def Login_Page():
 
 def Headers():
     print("This is the Headers Function")
+
+def Footer():
+    print("This is the Footer Function")
